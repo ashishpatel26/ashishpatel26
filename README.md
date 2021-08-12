@@ -10,11 +10,15 @@
   🔭 I am Currently working as Sr. Data Scientist at [Cygnet 🦢](https://cygnet-infotech.com/)
 
   - 🌱 I’m currently Learning Quantum Machine learning😎.
+  
   - 👯 I’m looking to collaborate with famous repository
+  
   - 🥅 2021 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
-  - ⚡ Fun fact: I love to code.
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+  - ⚡ Fun fact: I love to code.
+  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+    
       
 
 ---
