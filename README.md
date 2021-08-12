@@ -11,7 +11,7 @@
 
   - 🌱 I’m currently Learning Quantum Machine learning😎.
   
-  - 👯 I’m looking to collaborate with famous repository
+  - 👯 I’m collaborator in keras, tensorflow and looking for more collaboration.
   
   - 🥅 2021 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 
