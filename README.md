@@ -20,6 +20,42 @@
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
     
       
+    
+    ## ⚡  Technologies I use 
+    
+    <br>
+    
+    <div align="center">
+        <table align="center">
+            <tr>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/python.jpeg" width="65px"/>
+                    <br /> Python
+                </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/jupyter.png" width="65px"/>
+                    <br /> Jupyter
+                </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/tensorflow.png" width="65px"/>
+                    <br /> TensorFlow
+                </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/scikitlearn.png" width="65px"/>
+                    <br /> Scikit Learn
+                </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/fastapi.png" width="65px"/>
+                    <br /> FastAPI
+                </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/docker.png" width="65px"/>
+                    <br /> Docker
+                </td>
+            </tr>
+        </table>
+    </div>
+    <br>
 
 ---
 
