@@ -19,6 +19,18 @@
   
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
     
+ - Laptop (I am using)
+ -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)  
+
+||Model|Bench
+:----|:----|:----|
+**CPU**|[Intel Core i7-10870H](https://cpu.userbenchmark.com/SpeedTest/1322918/IntelR-CoreTM-i7-10870H-CPU---220GHz)|77.1%
+**GPU**|[Intel UHD Graphics](https://gpu.userbenchmark.com/SpeedTest/1027883/IntelR-UHD-Graphics)|4.8%
+**GPU**|[Nvidia RTX 3060 (Laptop)](https://gpu.userbenchmark.com/SpeedTest/1452971/NVIDIA-GeForce-RTX-3060-Laptop-GPU)|84.1%
+**SSD**|[Samsung MZVLB1T0HBLR-00007 1TB](https://ssd.userbenchmark.com/SpeedTest/963042/SAMSUNG-MZVLB1T0HBLR-00007)|104.4%
+**RAM**|[Hynix HMAA2GS6AJR8N-XN 1x16GB](https://ram.userbenchmark.com/SpeedTest/1166099/Hynix-HMAA2GS6AJR8N-XN-1x16GB)|37.8%
+**MBD**|[Acer Predator PH315-53](https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818)|   
+    
       
     
     ## ⚡  Technologies I use 
