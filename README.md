@@ -7,13 +7,19 @@
     ![Ashish Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=algolia)
   ---
 
+<<<<<<< HEAD
+  * 🔭 I am Currently working as **Chief Data Scientist(Sr.AWS AI ML Solution Architect)** at [Cygnet 🦢](https://cygnet-infotech.com/)
+=======
   * 🔭 I am Currently working as **Sr.Data Scientist** at [IBM](https://www.ibm.com/in-en)
+>>>>>>> f7023dc1a978a8246623cfc2e5f043fbc9d06576
 
   - 🌱 I’m currently Learning Quantum Machine learning😎.
+
+  - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
   
-  - 👯 I’m collaborator in keras, tensorflow and looking for more collaboration.
+  - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
   
-  - 🥅 2021 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+  - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 
   - ⚡ Fun fact: I love to code.
   
