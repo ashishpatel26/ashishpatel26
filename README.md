@@ -7,7 +7,7 @@
     ![Ashish Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=algolia)
   ---
 
-  * 🔭 I am Currently working as **Sr.Data Scientist** at [IBM](https://www.ibm.com/in-en)
+  * 🔭 I am Currently working as **Chief Data Scientist(Sr.AWS AI ML Solution Architect)** at [IBM](https://www.ibm.com/in-en)
 
   - 🌱 I’m currently Learning Quantum Machine learning😎.
 
