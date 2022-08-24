@@ -42,6 +42,10 @@
                     <br /> TensorFlow
                 </td>
                 <td align="center" width="140" height="112.43">
+                    <img src="./assets/icons/pytorch.png" width="65px"/>
+                    <br /> Pytorch
+                </td>
+                <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/scikitlearn.png" width="65px"/>
                     <br /> Scikit Learn
                 </td>
