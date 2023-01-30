@@ -21,14 +21,15 @@
   - ⚡ Fun fact: I love to code.
 
 ---
-  <div>
-  <b>My GitHub Stats</b><br />
-    <a href="http://www.github.com/ashishpatel26"><img src="https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ashishpatel26's GitHub stats" /></a>
-    <a href="http://www.github.com/ashishpatel26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpatel26&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  </div>
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=radical) | [![Ashish Patel's Stri](https://streak-stats.demolab.com?user=ashishpatel26&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+
+
+
 [![Ashish Patel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashishpatel26&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
    ## ⚡ Technologies I use 
 
