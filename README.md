@@ -27,7 +27,11 @@
 
 
 
+<<<<<<< HEAD
 [![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+=======
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+>>>>>>> ac34fb9d782ce1f0020a5a55c3d05fae79c3f726
 
 
 
