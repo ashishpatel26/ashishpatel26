@@ -8,7 +8,7 @@
 <!-- ============================================================ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=640&lines=Senior+Principal+Architect+%E2%80%93+AI%2FML+%40+Oracle;Building+Agentic+AI+%26+GenAI+at+Enterprise+Scale;Open+Source+Maintainer+%E2%80%A2+86k%2B+Stars+%E2%80%A2+11k%2B+Followers;Author+%26+22%2B+Times+Published+Researcher;GitHub+Star+Club+Member+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=Senior+Principal+Architect+%7C+AI%2FML+%40+Oracle;Building+Agentic+AI+%26+GenAI+at+Enterprise+Scale;Open+Source+Maintainer+%7C+86k%2B+Stars+%7C+11k%2B+Followers;Author+%26+22%2B+Times+Published+Researcher;GitHub+Star+Club+Member+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -216,6 +216,21 @@ learning:    Quantum ML
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ashishpatel26&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/ashishpatel26)
+
+</div>
+
+<!-- ============================================================ -->
+<!--                     CONTRIBUTION SNAKE                       -->
+<!-- ============================================================ -->
+### 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake.svg" />
+</picture>
 
 </div>
 
