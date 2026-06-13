@@ -131,19 +131,44 @@ learning:    Quantum ML
 <table align="center">
 <tr>
 <td align="right" width="170"><b>🧠 Languages & Core</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,bash,anaconda,git,linux&theme=dark&perline=10&animate=true" alt="languages"/></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=dark&animate=true" width="48" height="48" alt="r" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark&animate=true" width="48" height="48" alt="bash" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark&animate=true" width="48" height="48" alt="anaconda" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&animate=true" width="48" height="48" alt="linux" />
+</td>
 </tr>
 <tr>
 <td align="right"><b>🤖 AI / ML / DL</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=10&animate=true" alt="ml"/></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark&animate=true" width="48" height="48" alt="pytorch" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark&animate=true" width="48" height="48" alt="sklearn" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark&animate=true" width="48" height="48" alt="opencv" />
+</td>
 </tr>
 <tr>
 <td align="right"><b>☁️ Cloud · MLOps</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,docker,kubernetes,fastapi,flask&theme=dark&perline=10&animate=true" alt="cloud"/></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark&animate=true" width="48" height="48" alt="aws" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure&theme=dark&animate=true" width="48" height="48" alt="azure" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark&animate=true" width="48" height="48" alt="gcp" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark&animate=true" width="48" height="48" alt="kubernetes" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark&animate=true" width="48" height="48" alt="fastapi" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark&animate=true" width="48" height="48" alt="flask" />
+</td>
 </tr>
 <tr>
 <td align="right"><b>🗄️ Data · Streaming</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,kafka,redis&theme=dark&perline=10&animate=true" alt="data"/></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark&animate=true" width="48" height="48" alt="postgres" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka&theme=dark&animate=true" width="48" height="48" alt="kafka" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark&animate=true" width="48" height="48" alt="redis" />
+</td>
 </tr>
 </table>
 
