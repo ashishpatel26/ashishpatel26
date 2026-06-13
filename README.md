@@ -23,6 +23,9 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishpatel.ce.2011)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishpatel.ce.2011@gmail.com)
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MfHiCbkAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8307-9425)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ashishpatel26&label=Profile%20Views&color=0077B5&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/ashishpatel26?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/ashishpatel26?tab=followers)
 [![Stars](https://img.shields.io/badge/Total%20Stars-86k%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishpatel26)
@@ -265,7 +268,7 @@ learning:    Quantum ML
 
 ### ✍️ Author & Writer
 📖 _Hands-on Time Series Analytics with Python_ <br>
-🔬 **22+** research papers (IEEE, Springer, Taylor & Francis) <br>
+🔬 **22+** papers — [Google Scholar](https://scholar.google.com/citations?user=MfHiCbkAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8307-9425) <br>
 📚 Reviewer of **25+** technical books <br>
 ✏️ Blogs on **Medium & LinkedIn**
 
