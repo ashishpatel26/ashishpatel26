@@ -127,19 +127,19 @@ learning:    Quantum ML
 <table align="center">
 <tr>
 <td align="right" width="170"><b>🧠 Languages & Core</b></td>
-<td><img src="https://skillicons.dev/icons?i=py,r,bash,anaconda,git,linux&theme=dark" alt="languages"/></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,bash,anaconda,git,linux&theme=dark&perline=10" alt="languages"/></td>
 </tr>
 <tr>
 <td align="right"><b>🤖 AI / ML / DL</b></td>
-<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ml"/></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=10" alt="ml"/></td>
 </tr>
 <tr>
 <td align="right"><b>☁️ Cloud · MLOps</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,fastapi,flask&theme=dark" alt="cloud"/></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,docker,kubernetes,fastapi,flask&theme=dark&perline=10" alt="cloud"/></td>
 </tr>
 <tr>
 <td align="right"><b>🗄️ Data · Streaming</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,redis&theme=dark" alt="data"/></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,kafka,redis&theme=dark&perline=10" alt="data"/></td>
 </tr>
 </table>
 
