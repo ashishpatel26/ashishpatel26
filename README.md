@@ -117,7 +117,13 @@ learning:    Quantum ML
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,aws,docker,kubernetes,pytorch,tensorflow&theme=dark&perline=6&animate=true" alt="hero stack" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="58" height="58" />
 </div>
 
 <br/>
