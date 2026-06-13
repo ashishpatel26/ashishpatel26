@@ -172,21 +172,6 @@ learning:    Quantum ML
 <!-- ============================================================ -->
 ## 🌍 Open Source Contributions
 
-### 🚀 Projects I Created & Maintain
-
-> Open-source AI/ML resources used by hundreds of thousands of developers, students, and practitioners worldwide. **Combined: 86k+ ⭐ and 16k+ forks.**
-
-| 🏆 Repository | 📝 What It Is | 🔧 My Contribution & Impact |
-|:---|:---|:---|
-| **[500-AI-ML-DL-CV-NLP-Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?style=flat-square&color=FFD700&label=⭐) | Curated index of **500 AI/ML/DL/CV/NLP projects with code** | **Created & maintain** the largest curated project hub of its kind — `34.5k ⭐ · 7.3k forks`. A go-to learning resource cited across the ML community. |
-| **[500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/500-AI-Agents-Projects?style=flat-square&color=FFD700&label=⭐) | **500 AI Agent use cases** across industries with open-source links | **Authored** the definitive Agentic-AI catalog spanning healthcare, finance, retail & more — `32.3k ⭐ · 5.7k forks`. Trending reference for the AI-agents ecosystem. |
-| **[Tools-to-Visualize-Neural-Networks](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network?style=flat-square&color=FFD700&label=⭐) | Toolbox to **design & visualize** neural-network architectures | **Curated** the most complete list of NN visualization tools — `5.4k ⭐ · 646 forks`. Widely shared in research & education. |
-| **[Andrew-NG-Notes](https://github.com/ashishpatel26/Andrew-NG-Notes)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/Andrew-NG-Notes?style=flat-square&color=FFD700&label=⭐) | Handwritten notes for **Andrew Ng's Coursera** courses | **Authored & published** comprehensive study notes — `3.7k ⭐ · 1.3k forks`. Helps thousands of learners master ML fundamentals. |
-| **[LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/LLM-Finetuning?style=flat-square&color=FFD700&label=⭐) | Hands-on **LLM fine-tuning with PEFT/LoRA** notebooks | **Built** end-to-end fine-tuning tutorials (PEFT, LoRA, QLoRA) — `2.9k ⭐ · 764 forks`. Practical reference for GenAI engineers. |
-| **[Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/Treasure-of-Transformers?style=flat-square&color=FFD700&label=⭐) | Awesome collection of **Transformer models** for NLP | **Curated** papers, videos, blogs & Colab notebooks for Transformers — `1.1k ⭐ · 233 forks`. A one-stop NLP treasure trove. |
-
-<sub>⭐ Star counts update live. As a recognized **GitHub Star Club Member**, my open-source work spans 100+ public repositories across AI, ML, CV, NLP, Agents & MLOps.</sub>
-
 ### 🤝 Merged Contributions to Other Open Source Projects
 
 > Pull requests authored & **merged** into community projects — bug fixes, features, docs & visual assets. **Reach: 225k+ ⭐ across these repos.**
