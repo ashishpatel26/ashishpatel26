@@ -1,15 +1,16 @@
 <!-- ============================================================ -->
-<!--                         HEADER BANNER                        -->
-<!-- ============================================================ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1DA1F2&height=210&section=header&text=Ashish%20Patel&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Open%20Source%20Builder%20%E2%80%A2%20Author%20%E2%80%A2%20Technical%20Content%20Creator&descAlignY=58&descSize=18" alt="banner"/>
-
-<!-- ============================================================ -->
-<!--                          TYPING SVG                          -->
+<!--                            HEADER                            -->
 <!-- ============================================================ -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Sr.+Principal+Architect+%7C+AI%2FML+%40+Oracle;Building+Agentic+AI+%26+GenAI+at+Scale;Open+Source+Maintainer+%7C+86k%2B+Stars;Author+%26+22%2B+Times+Published+Researcher;GitHub+Star+Club+Member+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+
+# Ashish Patel
+
+#### AI Engineer · Open Source Builder · Author · Technical Content Creator
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Sr.+Principal+Architect+%7C+AI%2FML+%40+Oracle;Building+Agentic+AI+%26+GenAI+at+Scale;Open+Source+Maintainer+%7C+86k%2B+Stars;Author+%26+22%2B+Times+Published+Researcher;GitHub+Star+Club+Member+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
 </div>
 
 <!-- ============================================================ -->
@@ -188,11 +189,12 @@ learning:    Quantum ML
 
 ### 🤝 Merged Contributions to Other Open Source Projects
 
-> Pull requests authored & **merged** into community projects — bug fixes, features, docs & visual assets. **Reach: 35k+ ⭐ across these repos.**
+> Pull requests authored & **merged** into community projects — bug fixes, features, docs & visual assets. **Reach: 225k+ ⭐ across these repos.**
 
-| 🔗 Repository | ⭐ | 🛠️ What I Contributed (Merged PRs) |
+| 🔗 Repository | ⭐ | 🛠️ What I Contributed (Merged) |
 |:---|:--:|:---|
-| **[chopratejas/headroom](https://github.com/chopratejas/headroom)** | `25.6k` | Shipped **2 merged bug fixes** — fail-open on codex compression timeout, and a stable dashboard hero tile under multi-worker mode. |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | `192k` | **Merged contributions** (squash-merged, authorship preserved in latest releases) — security hardening (shell-escape denylist, fail-closed approval), CLI launchd restart fix, agent crash-loop & config-migration fixes. |
+| **[chopratejas/headroom](https://github.com/chopratejas/headroom)** | `25.6k` | **2 merged bug fixes** — fail-open on codex compression timeout, and a stable dashboard hero tile under multi-worker mode. Plus Hermes-agent provider support. |
 | **[2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad)** | `7.6k` | Added an **animated architecture diagram** to the multi-agent orchestration framework docs. |
 | **[fmind/mlops-python-package](https://github.com/fmind/mlops-python-package)** | `1.4k` | Contributed a **MLOps workflow mindmap** to the project template. |
 | **[callmesora/llmops-python-package](https://github.com/callmesora/llmops-python-package)** | `898` | Contributed a **LLMOps workflow mindmap** to the package docs. |
@@ -321,8 +323,8 @@ learning:    Quantum ML
 <!-- ============================================================ -->
 <div align="center">
 
-### 💙 _Thanks for visiting — let's build the future of AI, together._
+**_Thanks for visiting — let's build the future of AI, together._**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1DA1F2,100:0077B5&height=120&section=footer"/>
+⭐️ If you find my work useful, consider [following](https://github.com/ashishpatel26) or starring a repo.
 
 </div>
