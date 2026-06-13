@@ -1,91 +1,289 @@
-- ### Hi there, I'm Ashish Patel👋
-  ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
-  [![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/ashishpatel2604/)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imashish2604)
+<!-- ============================================================ -->
+<!--                         HEADER BANNER                        -->
+<!-- ============================================================ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1DA1F2&height=210&section=header&text=Ashish%20Patel&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Open%20Source%20Builder%20%E2%80%A2%20Author%20%E2%80%A2%20Technical%20Content%20Creator&descAlignY=58&descSize=18" alt="banner"/>
 
-
-  ## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
-
----
-
-  * 🔭 I am Currently working as **Sr.AWS AI ML Solution Architect** at [IBM](https://www.ibm.com/in-en)
-
-  - 🌱 I’m currently Learning Quantum Machine learning😎.
-
-  - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
-  
-  - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
-  
-  - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
-
-  - ⚡ Fun fact: I love to code.
-
----
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=radical) | [![Ashish Patel's Stri](https://streak-stats.demolab.com?user=ashishpatel26&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-   ## ⚡ Technologies I use 
-
+<!-- ============================================================ -->
+<!--                          TYPING SVG                          -->
+<!-- ============================================================ -->
 <div align="center">
-<table align="center">
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
-            <br /> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
-            <br /> Jupyter
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
-            <br /> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/pytorch.png" width="65px"/>
-            <br /> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
-            <br /> Scikit Learn
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/fastapi.png" width="65px"/>
-            <br /> FastAPI
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> Docker
-        </td>
-    </tr>
-</table>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=620&lines=Senior+Principal+Architect+%E2%80%93+AI%2FML+%40+Oracle;Building+Agentic+AI+%26+GenAI+at+Enterprise+Scale;Open+Source+Maintainer+%E2%80%A2+86k%2B+Stars+%E2%80%A2+11k%2B+Followers;Author+%26+22%2B+Times+Published+Researcher;GitHub+Star+Club+Member+%E2%9A%A1" alt="Typing SVG" />
+  </a>
 </div>
 
- - Laptop (I am using)
- -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)  
+<!-- ============================================================ -->
+<!--                       SOCIAL + METRICS                       -->
+<!-- ============================================================ -->
+<div align="center">
 
-||Model|Bench
-:----|:----|:----|
-**CPU**|[Intel Core i7-10870H](https://cpu.userbenchmark.com/SpeedTest/1322918/IntelR-CoreTM-i7-10870H-CPU---220GHz)|77.1%
-**GPU**|[Intel UHD Graphics](https://gpu.userbenchmark.com/SpeedTest/1027883/IntelR-UHD-Graphics)|4.8%
-**GPU**|[Nvidia RTX 3060 (Laptop)](https://gpu.userbenchmark.com/SpeedTest/1452971/NVIDIA-GeForce-RTX-3060-Laptop-GPU)|84.1%
-**SSD**|[Samsung MZVLB1T0HBLR-00007 1TB](https://ssd.userbenchmark.com/SpeedTest/963042/SAMSUNG-MZVLB1T0HBLR-00007)|104.4%
-**RAM**|[Hynix HMAA2GS6AJR8N-XN 1x16GB](https://ram.userbenchmark.com/SpeedTest/1166099/Hynix-HMAA2GS6AJR8N-XN-1x16GB)|37.8%
-**MBD**|[Acer Predator PH315-53](https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818)|   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imashish2604)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashishpatel26)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishpatel.ce.2011)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishpatel.ce.2011@gmail.com)
 
-### Important Repository
+![Profile Views](https://komarev.com/ghpvc/?username=ashishpatel26&label=Profile%20Views&color=0077B5&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/ashishpatel26?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/ashishpatel26?tab=followers)
+[![Stars](https://img.shields.io/badge/Total%20Stars-86k%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishpatel26)
 
-💾 365 Days of Computer Vision - [🔗](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
+</div>
 
 ---
 
-***Thanks for visit my profile.***
+<!-- ============================================================ -->
+<!--                       BRAND STATEMENT                        -->
+<!-- ============================================================ -->
+<div align="center">
+
+### 🚀 _"I build production-grade AI systems and share the journey — turning 12+ years of ML research into open-source resources that 86k+ developers learn from."_
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👋 Who I Am
+
+I'm **Ashish Patel** — an **AI Engineer** and **Senior Principal Architect (AI/ML & DS)** with **12.5+ years** of specialized AI/ML experience and **14.5+ years** building enterprise-grade, scalable systems.
+
+I architect **Agentic AI workflows**, **MCP server enterprise architectures**, and **GenAI/LLMOps** platforms in production across **AWS, Azure, GCP & OCI**. Beyond shipping enterprise systems, I'm an **open-source maintainer** whose curated AI/ML resources have earned **86k+ stars** and a community of **11k+ followers**.
+
+I also write — as the **author** of _Hands-on Time Series Analytics with Python_, a **22+ times published researcher** (IEEE, Springer, Taylor & Francis), and a **reviewer of 25+ technical books** for Packt, Manning & Springer Nature.
+
+</td>
+<td width="40%" valign="top">
+
+## ⚡ At a Glance
+
+```yaml
+name:        Ashish Patel
+role:        Sr. Principal Architect (AI/ML)
+company:     Oracle
+focus:       Agentic AI · GenAI · LLMOps
+experience:  12.5+ yrs in AI/ML
+stars:       86,000+
+followers:   11,000+
+papers:      22+ published
+book:        Time Series w/ Python
+clouds:      AWS · Azure · GCP · OCI
+learning:    Quantum ML
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================ -->
+<!--                  CURRENTLY BUILDING / LEARNING               -->
+<!-- ============================================================ -->
+## 🔭 Currently Building & Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Building
+- 🤖 **Agentic AI workflows** for enterprise automation
+- 🔌 **MCP server architectures** for cloud-native LLM tooling
+- ☁️ **OCI GenAI** services & multi-agent RAG pipelines
+- 📦 Open-source **AI Agents** project collections (500+)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Learning & Exploring
+- ⚛️ **Quantum Machine Learning** (IBM & Qubit×Qubit certified)
+- 🧠 **AI Agent Orchestration** & reasoning patterns
+- 🔬 RLHF / DPO / GRPO **fine-tuning** at scale
+- 📈 Cost-aware **inference routing** & model distillation
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================ -->
+<!--                          TECH STACK                          -->
+<!-- ============================================================ -->
+## 🧰 Tech Stack
+
+**🧠 Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**🤖 AI / ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+
+**🧬 GenAI · LLMs · Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square&logo=robotframework&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-2C8EBB?style=flat-square&logo=microsoft&logoColor=white)
+
+**☁️ Cloud · MLOps · Infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubeflow&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonsagemaker&logoColor=white)
+
+**🗄️ Data · Vector DBs**
+
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C8A8?style=flat-square&logo=weaviate&logoColor=white)
+
+---
+
+<!-- ============================================================ -->
+<!--                  OPEN SOURCE CONTRIBUTIONS                    -->
+<!-- ============================================================ -->
+## 🌍 Open Source Contributions
+
+> I create and maintain open-source AI/ML resources used by hundreds of thousands of developers, students, and practitioners worldwide. **Combined: 86k+ ⭐ and 16k+ forks.**
+
+| 🏆 Repository | 📝 What It Is | 🔧 My Contribution & Impact |
+|:---|:---|:---|
+| **[500-AI-ML-DL-CV-NLP-Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?style=flat-square&color=FFD700&label=⭐) | Curated index of **500 AI/ML/DL/CV/NLP projects with code** | **Created & maintain** the largest curated project hub of its kind — `34.5k ⭐ · 7.3k forks`. A go-to learning resource cited across the ML community. |
+| **[500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/500-AI-Agents-Projects?style=flat-square&color=FFD700&label=⭐) | **500 AI Agent use cases** across industries with open-source links | **Authored** the definitive Agentic-AI catalog spanning healthcare, finance, retail & more — `32.3k ⭐ · 5.7k forks`. Trending reference for the AI-agents ecosystem. |
+| **[Tools-to-Visualize-Neural-Networks](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network?style=flat-square&color=FFD700&label=⭐) | Toolbox to **design & visualize** neural-network architectures | **Curated** the most complete list of NN visualization tools — `5.4k ⭐ · 646 forks`. Widely shared in research & education. |
+| **[Andrew-NG-Notes](https://github.com/ashishpatel26/Andrew-NG-Notes)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/Andrew-NG-Notes?style=flat-square&color=FFD700&label=⭐) | Handwritten notes for **Andrew Ng's Coursera** courses | **Authored & published** comprehensive study notes — `3.7k ⭐ · 1.3k forks`. Helps thousands of learners master ML fundamentals. |
+| **[LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/LLM-Finetuning?style=flat-square&color=FFD700&label=⭐) | Hands-on **LLM fine-tuning with PEFT/LoRA** notebooks | **Built** end-to-end fine-tuning tutorials (PEFT, LoRA, QLoRA) — `2.9k ⭐ · 764 forks`. Practical reference for GenAI engineers. |
+| **[Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/Treasure-of-Transformers?style=flat-square&color=FFD700&label=⭐) | Awesome collection of **Transformer models** for NLP | **Curated** papers, videos, blogs & Colab notebooks for Transformers — `1.1k ⭐ · 233 forks`. A one-stop NLP treasure trove. |
+
+<sub>⭐ Star counts update live. As a recognized **GitHub Star Club Member**, my open-source work spans 100+ public repositories across AI, ML, CV, NLP, Agents & MLOps.</sub>
+
+---
+
+<!-- ============================================================ -->
+<!--                       FEATURED PROJECTS                      -->
+<!-- ============================================================ -->
+## 📌 Featured Projects
+
+<div align="center">
+
+[![500 AI ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=ashishpatel26&repo=500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+[![500 AI Agents Projects](https://github-readme-stats.vercel.app/api/pin/?username=ashishpatel26&repo=500-AI-Agents-Projects&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+[![Tools to Visualize NN](https://github-readme-stats.vercel.app/api/pin/?username=ashishpatel26&repo=Tools-to-Design-or-Visualize-Architecture-of-Neural-Network&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+[![Andrew NG Notes](https://github-readme-stats.vercel.app/api/pin/?username=ashishpatel26&repo=Andrew-NG-Notes&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ashishpatel26/Andrew-NG-Notes)
+[![LLM Finetuning](https://github-readme-stats.vercel.app/api/pin/?username=ashishpatel26&repo=LLM-Finetuning&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ashishpatel26/LLM-Finetuning)
+[![Treasure of Transformers](https://github-readme-stats.vercel.app/api/pin/?username=ashishpatel26&repo=Treasure-of-Transformers&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ashishpatel26/Treasure-of-Transformers)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                  GITHUB METRICS & STATS                      -->
+<!-- ============================================================ -->
+## 📊 GitHub Metrics & Stats Dashboard
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashishpatel26&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ashishpatel26&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/ashishpatel26)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                     CONTENT & COMMUNITY                      -->
+<!-- ============================================================ -->
+## 🎙️ Content & Community
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### ✍️ Author & Writer
+📖 _Hands-on Time Series Analytics with Python_ <br>
+🔬 **22+** research papers (IEEE, Springer, Taylor & Francis) <br>
+📚 Reviewer of **25+** technical books <br>
+✏️ Blogs on **Medium & LinkedIn**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🎤 Speaker & Mentor
+🗣️ Speaker — **AWS Community Day AI/ML 2023** <br>
+🗣️ Speaker — **Google Developer Groups 2023** <br>
+👨‍🏫 Mentored **65+** students & engineers <br>
+🧑‍🔬 Collaborator in `keras` & `tensorflow`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🏅 Recognition
+⭐ **GitHub Star Club Member** <br>
+🏆 **3× Kaggle Kernel Winner** <br>
+⚛️ IBM Quantum Challenge (Advanced) <br>
+☁️ Google Cloud GenAI Certified
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+[![Medium](https://img.shields.io/badge/Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishpatel.ce.2011)
+[![Kaggle](https://img.shields.io/badge/Follow%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashishpatel26)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                            QUOTE                             -->
+<!-- ============================================================ -->
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
+
+</div>
+
+<!-- ============================================================ -->
+<!--                           FOOTER                             -->
+<!-- ============================================================ -->
+<div align="center">
+
+### 💙 _Thanks for visiting — let's build the future of AI, together._
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1DA1F2,100:0077B5&height=120&section=footer"/>
+
+</div>
