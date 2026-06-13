@@ -168,7 +168,9 @@ learning:    Quantum ML
 <!-- ============================================================ -->
 ## 🌍 Open Source Contributions
 
-> I create and maintain open-source AI/ML resources used by hundreds of thousands of developers, students, and practitioners worldwide. **Combined: 86k+ ⭐ and 16k+ forks.**
+### 🚀 Projects I Created & Maintain
+
+> Open-source AI/ML resources used by hundreds of thousands of developers, students, and practitioners worldwide. **Combined: 86k+ ⭐ and 16k+ forks.**
 
 | 🏆 Repository | 📝 What It Is | 🔧 My Contribution & Impact |
 |:---|:---|:---|
@@ -180,6 +182,22 @@ learning:    Quantum ML
 | **[Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers)** <br> ![Stars](https://img.shields.io/github/stars/ashishpatel26/Treasure-of-Transformers?style=flat-square&color=FFD700&label=⭐) | Awesome collection of **Transformer models** for NLP | **Curated** papers, videos, blogs & Colab notebooks for Transformers — `1.1k ⭐ · 233 forks`. A one-stop NLP treasure trove. |
 
 <sub>⭐ Star counts update live. As a recognized **GitHub Star Club Member**, my open-source work spans 100+ public repositories across AI, ML, CV, NLP, Agents & MLOps.</sub>
+
+### 🤝 Merged Contributions to Other Open Source Projects
+
+> Pull requests authored & **merged** into community projects — bug fixes, features, docs & visual assets. **Reach: 35k+ ⭐ across these repos.**
+
+| 🔗 Repository | ⭐ | 🛠️ What I Contributed (Merged PRs) |
+|:---|:--:|:---|
+| **[chopratejas/headroom](https://github.com/chopratejas/headroom)** | `25.6k` | Shipped **2 merged bug fixes** — fail-open on codex compression timeout, and a stable dashboard hero tile under multi-worker mode. |
+| **[2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad)** | `7.6k` | Added an **animated architecture diagram** to the multi-agent orchestration framework docs. |
+| **[fmind/mlops-python-package](https://github.com/fmind/mlops-python-package)** | `1.4k` | Contributed a **MLOps workflow mindmap** to the project template. |
+| **[callmesora/llmops-python-package](https://github.com/callmesora/llmops-python-package)** | `898` | Contributed a **LLMOps workflow mindmap** to the package docs. |
+| **[Abonia1/CheatSheet-LLM](https://github.com/Abonia1/CheatSheet-LLM)** | `243` | Improved the **LLM cheat-sheet README**. |
+| **[PacktPublishing/Hyperparameter-Tuning-with-Python](https://github.com/PacktPublishing/Hyperparameter-Tuning-with-Python)** | `190` | Added **notebooks in table format** to the official Packt book repo. |
+| **[moejoe95/MoCapsNet](https://github.com/moejoe95/MoCapsNet)** | `10` | Added **`requirements.txt`** for reproducible setup of the Momentum Capsule Networks paper code. |
+
+<sub>🔍 PRs authored by [@ashishpatel26](https://github.com/search?q=author%3Aashishpatel26+is%3Apr+is%3Amerged&type=pullrequests) and merged into repositories maintained by others.</sub>
 
 ---
 
