@@ -234,7 +234,10 @@ learning:    Quantum ML
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ashishpatel26&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ashishpatel26&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishpatel26&theme=github_dark" width="100%" alt="profile summary"/>
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishpatel26&theme=github_dark" alt="repos per language"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishpatel26&theme=github_dark&utcOffset=5.5" alt="productive time"/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/ashishpatel26)
 
