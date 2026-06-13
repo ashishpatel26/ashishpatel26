@@ -8,7 +8,7 @@
 <!-- ============================================================ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=620&lines=Senior+Principal+Architect+%E2%80%93+AI%2FML+%40+Oracle;Building+Agentic+AI+%26+GenAI+at+Enterprise+Scale;Open+Source+Maintainer+%E2%80%A2+86k%2B+Stars+%E2%80%A2+11k%2B+Followers;Author+%26+22%2B+Times+Published+Researcher;GitHub+Star+Club+Member+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=640&lines=Senior+Principal+Architect+%E2%80%93+AI%2FML+%40+Oracle;Building+Agentic+AI+%26+GenAI+at+Enterprise+Scale;Open+Source+Maintainer+%E2%80%A2+86k%2B+Stars+%E2%80%A2+11k%2B+Followers;Author+%26+22%2B+Times+Published+Researcher;GitHub+Star+Club+Member+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -112,54 +112,54 @@ learning:    Quantum ML
 <!-- ============================================================ -->
 ## 🧰 Tech Stack
 
-**🧠 Languages & Core**
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="58" height="58" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<br/>
 
-**🤖 AI / ML / Deep Learning**
+<table align="center">
+<tr>
+<td align="right" width="170"><b>🧠 Languages & Core</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,r,bash,anaconda,git,linux&theme=dark" alt="languages"/></td>
+</tr>
+<tr>
+<td align="right"><b>🤖 AI / ML / DL</b></td>
+<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ml"/></td>
+</tr>
+<tr>
+<td align="right"><b>☁️ Cloud · MLOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,fastapi,flask&theme=dark" alt="cloud"/></td>
+</tr>
+<tr>
+<td align="right"><b>🗄️ Data · Streaming</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,redis&theme=dark" alt="data"/></td>
+</tr>
+</table>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+<div align="center">
 
-**🧬 GenAI · LLMs · Agents**
+**🧬 GenAI · LLMs · Agents · Vector DBs**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square&logo=robotframework&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-2C8EBB?style=flat-square&logo=microsoft&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-1A1A2E?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A2E?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1A1A2E?style=flat-square&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-1A1A2E?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-1A1A2E?style=flat-square&logo=anthropic&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-1A1A2E?style=flat-square&logo=robotframework&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-1A1A2E?style=flat-square&logo=microsoft&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-1A1A2E?style=flat-square&logo=mlflow&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1A1A2E?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1A1A2E?style=flat-square&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-1A1A2E?style=flat-square&logo=weaviate&logoColor=white)
 
-**☁️ Cloud · MLOps · Infra**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubeflow&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonsagemaker&logoColor=white)
-
-**🗄️ Data · Vector DBs**
-
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C8A8?style=flat-square&logo=weaviate&logoColor=white)
+</div>
 
 ---
 
