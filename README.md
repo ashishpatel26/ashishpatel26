@@ -199,7 +199,7 @@ learning:    Quantum ML
 
 ### 🤝 Merged Contributions to Other Open Source Projects
 
-> Pull requests authored & **merged** into community projects — bug fixes, features, docs & visual assets. **Reach: 900k+ ⭐ across these repos.**
+> Pull requests authored & **merged** into community projects — bug fixes, features, docs & visual assets. **Reach: 850k+ ⭐ across these repos.**
 
 | 🔗 Repository | ⭐ | 🛠️ What I Contributed (Merged) |
 |:---|:--:|:---|
@@ -209,13 +209,12 @@ learning:    Quantum ML
 | **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** | `62.7k` | **[PR #1740](https://github.com/headroomlabs-ai/headroom/pull/1740)** — fix(router): stop protecting passing build/test output as error traces. |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | `192k` | **Merged contributions** (squash-merged, authorship preserved in latest releases) — security hardening (shell-escape denylist, fail-closed approval), CLI launchd restart fix, agent crash-loop & config-migration fixes, incl. **[PR #40405](https://github.com/NousResearch/hermes-agent/pull/40405)** (output-token parse for OpenRouter; empty-stream guard; cron-session prefix). |
 | **[python/typing](https://github.com/python/typing)** | `1.9k` | **[PR #2311](https://github.com/python/typing/pull/2311)** — docs: remove broken `LiteralString` overloads example. |
-| **[chopratejas/headroom](https://github.com/chopratejas/headroom)** | `25.6k` | **2 merged bug fixes** — fail-open on codex compression timeout, and a stable dashboard hero tile under multi-worker mode. Plus Hermes-agent provider support. |
-| **[2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad)** | `7.6k` | Added an **animated architecture diagram** to the multi-agent orchestration framework docs. |
-| **[fmind/mlops-python-package](https://github.com/fmind/mlops-python-package)** | `1.4k` | Contributed a **MLOps workflow mindmap** to the project template. |
-| **[callmesora/llmops-python-package](https://github.com/callmesora/llmops-python-package)** | `898` | Contributed a **LLMOps workflow mindmap** to the package docs. |
-| **[Abonia1/CheatSheet-LLM](https://github.com/Abonia1/CheatSheet-LLM)** | `243` | Improved the **LLM cheat-sheet README**. |
-| **[PacktPublishing/Hyperparameter-Tuning-with-Python](https://github.com/PacktPublishing/Hyperparameter-Tuning-with-Python)** | `190` | Added **notebooks in table format** to the official Packt book repo. |
-| **[moejoe95/MoCapsNet](https://github.com/moejoe95/MoCapsNet)** | `10` | Added **`requirements.txt`** for reproducible setup of the Momentum Capsule Networks paper code. |
+| **[2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad)** | `7.6k` | **[PR #332](https://github.com/2FastLabs/agent-squad/pull/332)** — Added an **animated architecture diagram** to the multi-agent orchestration framework docs. |
+| **[fmind/mlops-python-package](https://github.com/fmind/mlops-python-package)** | `1.4k` | **[PR #32](https://github.com/fmind/mlops-python-package/pull/32)** — Contributed a **MLOps workflow mindmap** to the project template. |
+| **[callmesora/llmops-python-package](https://github.com/callmesora/llmops-python-package)** | `898` | **[PR #5](https://github.com/callmesora/llmops-python-package/pull/5)** — Contributed a **LLMOps workflow mindmap** to the package docs. |
+| **[Abonia1/CheatSheet-LLM](https://github.com/Abonia1/CheatSheet-LLM)** | `243` | **[PR #1](https://github.com/Abonia1/CheatSheet-LLM/pull/1)** — Improved the **LLM cheat-sheet README**. |
+| **[PacktPublishing/Hyperparameter-Tuning-with-Python](https://github.com/PacktPublishing/Hyperparameter-Tuning-with-Python)** | `190` | **[PR #5](https://github.com/PacktPublishing/Hyperparameter-Tuning-with-Python/pull/5)** — Added **notebooks in table format** to the official Packt book repo. |
+| **[moejoe95/MoCapsNet](https://github.com/moejoe95/MoCapsNet)** | `10` | **[PR #3](https://github.com/moejoe95/MoCapsNet/pull/3)** — Added **`requirements.txt`** for reproducible setup of the Momentum Capsule Networks paper code. |
 
 <sub>🔍 PRs authored by [@ashishpatel26](https://github.com/search?q=author%3Aashishpatel26+is%3Apr+is%3Amerged&type=pullrequests) and merged into repositories maintained by others.</sub>
 
