@@ -199,12 +199,16 @@ learning:    Quantum ML
 
 ### 🤝 Merged Contributions to Other Open Source Projects
 
-> Pull requests authored & **merged** into community projects — bug fixes, features, docs & visual assets. **Reach: 603k+ ⭐ across these repos.**
+> Pull requests authored & **merged** into community projects — bug fixes, features, docs & visual assets. **Reach: 900k+ ⭐ across these repos.**
 
 | 🔗 Repository | ⭐ | 🛠️ What I Contributed (Merged) |
 |:---|:--:|:---|
+| **[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** | `124k` | **[PR #139876](https://github.com/kubernetes/kubernetes/pull/139876)** — `apiserver/pod`: preserve DRA status fields when old clients clear them via pods/status. |
 | **[openclaw/openclaw](https://github.com/openclaw/openclaw)** | `378k` | **[PR #92604](https://github.com/openclaw/openclaw/pull/92604)** — Fixed `/status` & TUI context-percent display: stale cumulative session totals no longer inflate Context %; legacy sessions with unknown freshness still render correctly. Rated 🐚 platinum hermit. |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | `192k` | **Merged contributions** (squash-merged, authorship preserved in latest releases) — security hardening (shell-escape denylist, fail-closed approval), CLI launchd restart fix, agent crash-loop & config-migration fixes. |
+| **[vllm-project/vllm](https://github.com/vllm-project/vllm)** | `87.3k` | **[PR #43984](https://github.com/vllm-project/vllm/pull/43984)** — [Bugfix][Tool Parser] Handle non-finite numbers in `coerce_to_schema_type`. |
+| **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** | `62.7k` | **[PR #1740](https://github.com/headroomlabs-ai/headroom/pull/1740)** — fix(router): stop protecting passing build/test output as error traces. |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | `192k` | **Merged contributions** (squash-merged, authorship preserved in latest releases) — security hardening (shell-escape denylist, fail-closed approval), CLI launchd restart fix, agent crash-loop & config-migration fixes, incl. **[PR #40405](https://github.com/NousResearch/hermes-agent/pull/40405)** (output-token parse for OpenRouter; empty-stream guard; cron-session prefix). |
+| **[python/typing](https://github.com/python/typing)** | `1.9k` | **[PR #2311](https://github.com/python/typing/pull/2311)** — docs: remove broken `LiteralString` overloads example. |
 | **[chopratejas/headroom](https://github.com/chopratejas/headroom)** | `25.6k` | **2 merged bug fixes** — fail-open on codex compression timeout, and a stable dashboard hero tile under multi-worker mode. Plus Hermes-agent provider support. |
 | **[2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad)** | `7.6k` | Added an **animated architecture diagram** to the multi-agent orchestration framework docs. |
 | **[fmind/mlops-python-package](https://github.com/fmind/mlops-python-package)** | `1.4k` | Contributed a **MLOps workflow mindmap** to the project template. |
